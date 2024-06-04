@@ -1,0 +1,2 @@
+LogMessage{timestamp=1717533953176, message='error message', level=ERROR}
+LogMessage{timestamp=1717533953231, message='fatal message', level=FATAL}
